@@ -122,3 +122,4 @@ The analysis successfully transformed raw customer data into meaningful business
 The dashboard provides an effective overview of customer behaviour, revenue trends, satisfaction metrics, and engagement patterns, enabling better strategic decision-making and business growth opportunities.
 
 This project demonstrates the practical application of data analytics, business intelligence, and visualization techniques in solving real-world business problems.
+<img width="1107" height="1421" alt="dashboard customer" src="https://github.com/user-attachments/assets/14cd3d43-08c1-418a-8d56-cfab8281145b" />
